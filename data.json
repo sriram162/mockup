@@ -1,0 +1,80 @@
+{
+"fooddetails":[
+  {
+    "food item": "burger",
+    "food image": "burger.jpg",
+    "food name": "Maharaja Burger",
+    "food description": "100% Vegetarian Burger with American cheese, fresh lettuce, pickles, vine plucked tomato, onion and ketchup",
+    "standard toppings": {
+      "american cheese": {
+        "foodname": "American Cheese",
+        "calorie": "100",
+        "cost": "5"
+      },
+      "lettuce": {
+        "foodname": "Organic Lettuce",
+        "calorie": "10",
+        "cost": "2"
+      },
+      "ketchup": {
+        "foodname": "Tomato Ketchup",
+        "calorie": "10",
+        "cost": "1"
+      },
+      "onion": {
+        "foodname": "Organic Onions",
+        "calorie": "15",
+        "cost": "1"
+      }
+    },
+    "available extra toppings": {
+      "pickles": {
+        "foodname": "Pickles",
+        "calorie": "50",
+        "cost": "5"
+      },
+      "frisco sauce": {
+        "foodname": "Hot Sauce",
+        "calorie": "50",
+        "cost": "2"
+      },
+      "grilled onion": {
+        "foodname": "Grilled Onion",
+        "calorie": "50",
+        "cost": "1"
+      },
+      "mayo": {
+        "foodname": "Mayonnaise",
+        "calorie": "20",
+        "cost": "1"
+      }
+    },
+    "sides": {
+      "fries": {
+        "foodname": "Thin & Crispy Fries",
+        "calorie": "100",
+        "cost": "5"
+      },
+      "cajunfries": {
+        "foodname": "Cajun Hot Fries",
+        "calorie": "10",
+        "cost": "2"
+      },
+      "parmesean cheese": {
+        "foodname": "Parmesean Cheese",
+        "calorie": "10",
+        "cost": "1"
+      },
+      "cheese fries": {
+        "foodname": "Hot Cheese Fries",
+        "calorie": "15",
+        "cost": "1"
+      }
+    },
+    "food base cost": {
+      "small": "25",
+      "large": "35"
+    }
+  }
+]
+}
